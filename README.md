@@ -114,6 +114,4 @@ golesLocal: int
 golesVisitante: int
 estado: String (jugado, pendiente)
 
-Métodos:
 
-calcularGanador(): void
